@@ -1,2 +1,2 @@
 # tree_data
-repository of tre files
+repository of tree files
